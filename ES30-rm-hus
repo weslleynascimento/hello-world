@@ -1,1 +1,10 @@
-18:58
+História de Usuário
+
+SILFAE-001 Informar Data de Publicação do Diário Oficial.
+Descrição
+Um usuário do Cartório pode consultar Solicitações de sua IRLF, selecionar uma da lista e então informar a Data de Publicação no Diário Oficial afim de dar ciência dos deferimentos ou indeferimentos destas. 
+Pesquisa
+Atributos da Busca
+•	Publicado (Sim/Não)
+•	Número do Processo
+•	Nome do Titular

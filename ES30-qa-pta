@@ -1,1 +1,11 @@
-18:53
+Plano de Teste de Aceitação 
+
+Lista de Cenários para Sistema XXXXXX
+Seq.	ID do Cenário	Descrição do Cenário	Número de Passos
+1.		CEN01 - Cadastros	Manutenção dos cadastros de apoio	4
+2.		CEN02	Emissão de Relatórios Gerenciais	2
+3.		CEN03	Autuação	4
+4.		CEN04	Emissão do DARM	5
+
+
+
